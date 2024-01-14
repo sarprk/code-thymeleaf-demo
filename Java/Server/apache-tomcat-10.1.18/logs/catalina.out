@@ -1,0 +1,295 @@
+13-Jan-2024 11:47:13.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.18
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 14:39:40 UTC
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.18.0
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.0
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 11:47:13.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 11:47:13.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/conf/logging.properties
+13-Jan-2024 11:47:13.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jan-2024 11:47:13.137 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 11:47:13.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/temp
+13-Jan-2024 11:47:13.144 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rajeshkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Jan-2024 11:47:13.297 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Jan-2024 11:47:13.318 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [314] milliseconds
+13-Jan-2024 11:47:13.346 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Jan-2024 11:47:13.347 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.18]
+13-Jan-2024 11:47:13.351 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs]
+13-Jan-2024 11:47:13.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs] has finished in [174] ms
+13-Jan-2024 11:47:13.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager]
+13-Jan-2024 11:47:13.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager] has finished in [20] ms
+13-Jan-2024 11:47:13.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples]
+13-Jan-2024 11:47:13.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples] has finished in [138] ms
+13-Jan-2024 11:47:13.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT]
+13-Jan-2024 11:47:13.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT] has finished in [11] ms
+13-Jan-2024 11:47:13.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager]
+13-Jan-2024 11:47:13.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager] has finished in [11] ms
+13-Jan-2024 11:47:13.706 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Jan-2024 11:47:13.715 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [396] milliseconds
+13-Jan-2024 11:48:03.475 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Jan-2024 11:48:03.476 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+13-Jan-2024 11:48:03.479 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Jan-2024 11:48:03.494 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+13-Jan-2024 11:48:03.506 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+13-Jan-2024 11:53:41.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.18
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 14:39:40 UTC
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.18.0
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.0
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 11:53:41.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/conf/logging.properties
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jan-2024 11:53:41.754 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 11:53:41.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 11:53:41.755 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/temp
+13-Jan-2024 11:53:41.760 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rajeshkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Jan-2024 11:53:41.916 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 11:53:41.948 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [327] milliseconds
+13-Jan-2024 11:53:41.985 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Jan-2024 11:53:41.985 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.18]
+13-Jan-2024 11:53:41.991 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs]
+13-Jan-2024 11:53:42.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs] has finished in [182] ms
+13-Jan-2024 11:53:42.174 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager]
+13-Jan-2024 11:53:42.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager] has finished in [20] ms
+13-Jan-2024 11:53:42.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples]
+13-Jan-2024 11:53:42.333 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples] has finished in [139] ms
+13-Jan-2024 11:53:42.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT]
+13-Jan-2024 11:53:42.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT] has finished in [9] ms
+13-Jan-2024 11:53:42.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager]
+13-Jan-2024 11:53:42.354 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager] has finished in [11] ms
+13-Jan-2024 11:53:42.355 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 11:53:42.365 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [416] milliseconds
+13-Jan-2024 12:04:12.900 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/conf/tomcat-users.xml]
+13-Jan-2024 12:04:12.919 SEVERE [Catalina-utility-2] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [38] column [33]
+	org.xml.sax.SAXParseException; lineNumber: 38; columnNumber: 33; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1522)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1363)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1539)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:447)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:726)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:246)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1084)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+13-Jan-2024 12:04:12.922 SEVERE [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 38; columnNumber: 33; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:637)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1539)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:447)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:726)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:143)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:246)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1084)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+13-Jan-2024 12:04:22.932 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/conf/tomcat-users.xml]
+13-Jan-2024 12:04:28.896 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Jan-2024 12:04:28.897 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 12:04:28.900 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+13-Jan-2024 12:04:28.917 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 12:04:28.927 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 12:04:31.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.18
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 5 2024 14:39:40 UTC
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.18.0
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            14.0
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.9+11-LTS-201
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 12:04:31.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18
+13-Jan-2024 12:04:31.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/conf/logging.properties
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18
+13-Jan-2024 12:04:31.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rajeshkumar/documents/java/server/apache-tomcat-10.1.18/temp
+13-Jan-2024 12:04:31.382 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/rajeshkumar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+13-Jan-2024 12:04:31.535 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 12:04:31.555 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [295] milliseconds
+13-Jan-2024 12:04:31.583 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Jan-2024 12:04:31.583 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.18]
+13-Jan-2024 12:04:31.587 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs]
+13-Jan-2024 12:04:31.759 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/docs] has finished in [171] ms
+13-Jan-2024 12:04:31.759 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager]
+13-Jan-2024 12:04:31.777 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/manager] has finished in [18] ms
+13-Jan-2024 12:04:31.777 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples]
+13-Jan-2024 12:04:31.912 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/examples] has finished in [135] ms
+13-Jan-2024 12:04:31.912 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT]
+13-Jan-2024 12:04:31.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/ROOT] has finished in [10] ms
+13-Jan-2024 12:04:31.922 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager]
+13-Jan-2024 12:04:31.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/host-manager] has finished in [11] ms
+13-Jan-2024 12:04:31.935 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8085"]
+13-Jan-2024 12:04:31.943 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [388] milliseconds
+13-Jan-2024 12:05:45.496 INFO [http-nio-8085-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security-0.0.1-SNAPSHOT.war]
+13-Jan-2024 12:05:46.557 INFO [http-nio-8085-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Jan-2024 12:05:46.604 INFO [http-nio-8085-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security-0.0.1-SNAPSHOT.war] has finished in [1,108] ms
+13-Jan-2024 12:06:00.510 INFO [http-nio-8085-exec-4] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/security-0.0.1-SNAPSHOT] has started
+13-Jan-2024 12:06:01.462 INFO [http-nio-8085-exec-4] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Jan-2024 12:06:01.493 INFO [http-nio-8085-exec-4] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/security-0.0.1-SNAPSHOT] is completed
+13-Jan-2024 12:24:46.276 INFO [http-nio-8085-exec-18] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/security-0.0.1-SNAPSHOT]
+13-Jan-2024 12:24:59.795 INFO [http-nio-8085-exec-13] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security.war]
+13-Jan-2024 12:25:00.659 INFO [http-nio-8085-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.7)
+
+2024-01-13T12:25:01.053+05:30  INFO 10198 --- [io-8085-exec-13] c.example.security.SecurityApplication   : Starting SecurityApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 10198 (/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security/WEB-INF/classes started by rajeshkumar in /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/bin)
+2024-01-13T12:25:01.054+05:30  INFO 10198 --- [io-8085-exec-13] c.example.security.SecurityApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-13T12:25:01.553+05:30  INFO 10198 --- [io-8085-exec-13] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 479 ms
+2024-01-13T12:25:01.993+05:30  INFO 10198 --- [io-8085-exec-13] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3b94bba, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@213e715c, org.springframework.security.web.context.SecurityContextHolderFilter@24f0e9bc, org.springframework.security.web.header.HeaderWriterFilter@3d626d7a, org.springframework.security.web.csrf.CsrfFilter@49e5e9c3, org.springframework.security.web.authentication.logout.LogoutFilter@59d958af, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@718225d1, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@13654919, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@ff41c64, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@69596f8e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53c5a75d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2debb348, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@316aa876, org.springframework.security.web.access.ExceptionTranslationFilter@423f4327, org.springframework.security.web.access.intercept.AuthorizationFilter@33ef69ef]
+2024-01-13T12:25:02.016+05:30  INFO 10198 --- [io-8085-exec-13] c.example.security.SecurityApplication   : Started SecurityApplication in 1.236 seconds (process running for 1230.878)
+13-Jan-2024 12:25:02.020 INFO [http-nio-8085-exec-13] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security.war] has finished in [2,225] ms
+2024-01-13T12:25:07.603+05:30  INFO 10198 --- [io-8085-exec-12] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-13T12:25:07.605+05:30  INFO 10198 --- [io-8085-exec-12] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+13-Jan-2024 12:42:51.638 INFO [http-nio-8085-exec-26] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/security]
+13-Jan-2024 12:43:13.016 INFO [http-nio-8085-exec-24] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security.war]
+13-Jan-2024 12:43:13.901 INFO [http-nio-8085-exec-24] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.7)
+
+2024-01-13T12:43:14.299+05:30  INFO 10198 --- [io-8085-exec-24] c.example.security.SecurityApplication   : Starting SecurityApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 10198 (/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security/WEB-INF/classes started by rajeshkumar in /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/bin)
+2024-01-13T12:43:14.300+05:30  INFO 10198 --- [io-8085-exec-24] c.example.security.SecurityApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-13T12:43:14.778+05:30  INFO 10198 --- [io-8085-exec-24] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 456 ms
+2024-01-13T12:43:15.175+05:30  INFO 10198 --- [io-8085-exec-24] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@46334009, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7050249b, org.springframework.security.web.context.SecurityContextHolderFilter@1470a62c, org.springframework.security.web.header.HeaderWriterFilter@467dbb00, org.springframework.security.web.csrf.CsrfFilter@3a064ab5, org.springframework.security.web.authentication.logout.LogoutFilter@6e5bff5b, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@44261bd, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1e8e5200, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1f770e6a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@44de516d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@408340da, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@35a682e1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7da6fd7a, org.springframework.security.web.access.ExceptionTranslationFilter@11093b73, org.springframework.security.web.access.intercept.AuthorizationFilter@7be4b2ac]
+2024-01-13T12:43:15.193+05:30  INFO 10198 --- [io-8085-exec-24] c.example.security.SecurityApplication   : Started SecurityApplication in 1.167 seconds (process running for 2324.053)
+13-Jan-2024 12:43:15.197 INFO [http-nio-8085-exec-24] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/security.war] has finished in [2,181] ms
+2024-01-13T12:43:23.901+05:30  INFO 10198 --- [io-8085-exec-22] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-13T12:43:23.904+05:30  INFO 10198 --- [io-8085-exec-22] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+13-Jan-2024 12:44:23.901 INFO [http-nio-8085-exec-30] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo.war]
+13-Jan-2024 12:44:24.783 INFO [http-nio-8085-exec-30] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.7)
+
+2024-01-13T12:44:25.107+05:30  INFO 10198 --- [io-8085-exec-30] c.example.security.SecurityApplication   : Starting SecurityApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 10198 (/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo/WEB-INF/classes started by rajeshkumar in /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/bin)
+2024-01-13T12:44:25.109+05:30  INFO 10198 --- [io-8085-exec-30] c.example.security.SecurityApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-13T12:44:25.516+05:30  INFO 10198 --- [io-8085-exec-30] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 390 ms
+2024-01-13T12:44:25.879+05:30  INFO 10198 --- [io-8085-exec-30] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7f263a54, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7202084a, org.springframework.security.web.context.SecurityContextHolderFilter@832ce48, org.springframework.security.web.header.HeaderWriterFilter@2dfcea35, org.springframework.security.web.csrf.CsrfFilter@257c0917, org.springframework.security.web.authentication.logout.LogoutFilter@742c054f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6377c26c, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@36e5ca47, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7d19b2b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5e0a747e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3169287b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c8bc9f6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4f6c6fde, org.springframework.security.web.access.ExceptionTranslationFilter@5b442ee6, org.springframework.security.web.access.intercept.AuthorizationFilter@60b1947e]
+2024-01-13T12:44:25.897+05:30  INFO 10198 --- [io-8085-exec-30] c.example.security.SecurityApplication   : Started SecurityApplication in 1.017 seconds (process running for 2394.757)
+13-Jan-2024 12:44:25.901 INFO [http-nio-8085-exec-30] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo.war] has finished in [2,000] ms
+13-Jan-2024 12:44:42.820 INFO [http-nio-8085-exec-36] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo-v1.war]
+13-Jan-2024 12:44:43.704 INFO [http-nio-8085-exec-36] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.7)
+
+2024-01-13T12:44:44.011+05:30  INFO 10198 --- [io-8085-exec-36] c.example.security.SecurityApplication   : Starting SecurityApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 10198 (/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo-v1/WEB-INF/classes started by rajeshkumar in /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/bin)
+2024-01-13T12:44:44.012+05:30  INFO 10198 --- [io-8085-exec-36] c.example.security.SecurityApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-13T12:44:44.411+05:30  INFO 10198 --- [io-8085-exec-36] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 381 ms
+2024-01-13T12:44:44.765+05:30  INFO 10198 --- [io-8085-exec-36] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@43fd6268, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@b7b0aa3, org.springframework.security.web.context.SecurityContextHolderFilter@5aef76c9, org.springframework.security.web.header.HeaderWriterFilter@46d2fd63, org.springframework.security.web.csrf.CsrfFilter@5b0802f4, org.springframework.security.web.authentication.logout.LogoutFilter@209c0b50, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@411fd00e, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@57a9400a, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@11765dcb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1b3a6e8a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3249d0a3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3b389549, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c9f2530, org.springframework.security.web.access.ExceptionTranslationFilter@3b3256b3, org.springframework.security.web.access.intercept.AuthorizationFilter@23ff5826]
+2024-01-13T12:44:44.783+05:30  INFO 10198 --- [io-8085-exec-36] c.example.security.SecurityApplication   : Started SecurityApplication in 0.987 seconds (process running for 2413.643)
+13-Jan-2024 12:44:44.790 INFO [http-nio-8085-exec-36] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitydemo-v1.war] has finished in [1,970] ms
+2024-01-13T12:45:08.501+05:30  INFO 10198 --- [io-8085-exec-35] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-13T12:45:08.505+05:30  INFO 10198 --- [io-8085-exec-35] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2024-01-13T12:45:41.242+05:30  INFO 10198 --- [io-8085-exec-40] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-13T12:45:41.248+05:30  INFO 10198 --- [io-8085-exec-40] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+13-Jan-2024 12:50:46.297 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitytest.war]
+13-Jan-2024 12:50:47.248 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.7)
+
+2024-01-13T12:50:47.561+05:30  INFO 10198 --- [alina-utility-1] c.example.security.SecurityApplication   : Starting SecurityApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 10198 (/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitytest/WEB-INF/classes started by rajeshkumar in /Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/bin)
+2024-01-13T12:50:47.562+05:30  INFO 10198 --- [alina-utility-1] c.example.security.SecurityApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-01-13T12:50:47.965+05:30  INFO 10198 --- [alina-utility-1] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 386 ms
+2024-01-13T12:50:48.346+05:30  INFO 10198 --- [alina-utility-1] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@af42995, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@242e98fc, org.springframework.security.web.context.SecurityContextHolderFilter@633349ac, org.springframework.security.web.header.HeaderWriterFilter@59dbe45e, org.springframework.security.web.csrf.CsrfFilter@2d4f7ce5, org.springframework.security.web.authentication.logout.LogoutFilter@22a4576d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7bedfc27, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@45425064, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3eac2a5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1017dc73, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@65b32c87, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2ea15fc7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@323bf311, org.springframework.security.web.access.ExceptionTranslationFilter@48ed383e, org.springframework.security.web.access.intercept.AuthorizationFilter@3e97ebe7]
+2024-01-13T12:50:48.364+05:30  INFO 10198 --- [alina-utility-1] c.example.security.SecurityApplication   : Started SecurityApplication in 1.012 seconds (process running for 2777.222)
+13-Jan-2024 12:50:48.368 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rajeshkumar/Documents/Java/Server/apache-tomcat-10.1.18/webapps/securitytest.war] has finished in [2,072] ms
+2024-01-13T12:51:19.158+05:30  INFO 10198 --- [io-8085-exec-36] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-13T12:51:19.165+05:30  INFO 10198 --- [io-8085-exec-36] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+14-Jan-2024 01:03:50.974 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+14-Jan-2024 01:03:50.977 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8085"]
+14-Jan-2024 01:03:50.990 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+14-Jan-2024 01:03:51.119 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8085"]
+14-Jan-2024 01:03:51.129 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8085"]

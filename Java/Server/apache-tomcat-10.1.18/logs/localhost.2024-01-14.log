@@ -1,0 +1,10 @@
+14-Jan-2024 01:03:51.001 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+14-Jan-2024 01:03:51.002 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Jan-2024 01:03:51.033 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+14-Jan-2024 01:03:51.033 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+14-Jan-2024 01:03:51.036 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+14-Jan-2024 01:03:51.036 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Jan-2024 01:03:51.070 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+14-Jan-2024 01:03:51.071 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+14-Jan-2024 01:03:51.095 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+14-Jan-2024 01:03:51.095 INFO [main] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext

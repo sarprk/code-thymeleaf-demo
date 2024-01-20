@@ -34,7 +34,7 @@ public class User {
 
 
 
-    private String role;
-    private String gender;
+    private final String role;
+    private final String gender;
 
 }

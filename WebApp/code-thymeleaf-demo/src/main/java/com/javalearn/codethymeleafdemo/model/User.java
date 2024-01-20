@@ -1,7 +1,7 @@
 package com.javalearn.codethymeleafdemo.model;
 
 public class User {
-    private String name;
+    private final String name;
 
     public User(String name, String email, String role, String gender) {
         this.name = name;
@@ -10,7 +10,7 @@ public class User {
         this.gender = gender;
     }
 
-    private String email;
+    private final String email;
 
     public String getName() {
         return name;
@@ -18,12 +18,12 @@ public class User {
 
 
 
-    public String getEmail() {
+    public final String getEmail() {
         return email;
     }
 
 
-    public String getRole() {
+    public final String getRole() {
         return role;
     }
 
